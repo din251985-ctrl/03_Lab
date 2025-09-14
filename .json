@@ -1,0 +1,21 @@
+{
+  "transactionId": "TXN123456789",
+  "user": {
+    "userId": "U001",
+    "name": "Dinesh Patil",
+    "language": "mr-IN"
+  },
+  "payment": {
+    "amount": 1500.00,
+    "currency": "INR",
+    "method": "UPI",
+    "status": "pending",
+    "timestamp": "2025-09-14T12:12:00+05:30"
+  },
+  "merchant": {
+    "merchantId": "M98765",
+    "name": "SmartPay Solutions",
+    "location": "Kalyan, Maharashtra"
+  },
+  "notes": "Awaiting confirmation from UPI provider"
+}
